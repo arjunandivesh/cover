@@ -1,0 +1,75 @@
+body{
+    background-image: url("DG.png") ;
+}
+.color{
+    color:black;
+    background:radial-gradient(rgb(144, 139, 107),rgb(231, 213, 168),rgb(197, 183, 183));
+    padding: 4px;
+    border-radius: 5px 5px;
+}
+h1{
+    padding-left: 6px;
+    padding-top:22px;
+    color:rgb(205, 66, 66)
+}
+font{
+    font-size: 20;
+    align-self: auto;
+    color:black;
+}
+.i2{
+    color:whitesmoke;
+    padding:7px;
+}
+.i3{
+    width: 720px;
+    background:linear-gradient(rgb(177, 147, 184),rgb(123, 116, 124),rgb(171, 205, 224));
+    margin: auto;
+    border:solid 3px black;
+    border-radius: 35px 35px;
+    padding: 25px;
+}
+.i4{
+    background:linear-gradient(45deg,rgb(72, 56, 119),rgb(146, 193, 196)); 
+    padding: 17px;   
+    margin:  auto;
+    font-size: 18px;
+    font-style: bold;
+    display:flex;
+    border-left: 7px solid;
+    text-align: center;
+}
+.i5 {
+    background:linear-gradient(rgb(225, 161, 207),rgb(193, 170, 222));    
+    padding: 17px;
+    width: 670px;
+    margin: auto;
+    border-radius: 17px;
+    display: flex;
+    gap: 17px;   
+    border:dotted 5px rgb(241, 220, 220);                   
+}
+.i6 {
+    font-size: 18;
+
+}
+
+.price{
+    padding-left: 84%;
+}
+footer
+{
+    background-color: rgb(175, 149, 138);
+    margin-top: 10px;
+    font-weight: bold;
+    border-left: 5px rgb(49, 107, 157) dotted;
+    height: 55px;
+    width: 660px;
+    padding-bottom:7%;
+    padding-top:1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    font-size: 80%;
+  
+
+}
